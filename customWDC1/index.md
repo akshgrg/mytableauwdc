@@ -1,4 +1,7 @@
-<title>WDC 1</title>
+
+<head>
+    <title>WDC 1</title>
+</head>
 
 ## Welcome to my WDC Page!
 
