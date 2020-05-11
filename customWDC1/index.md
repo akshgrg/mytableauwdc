@@ -1,5 +1,4 @@
-## Welcome to my WDC Page!
-
+<html>
 <head>
     <title></title>
     <meta http-equiv="Cache-Control" content="no-store" />
@@ -23,3 +22,4 @@
 </body>
 
 <footer> Having trouble? Please contact me at akgarg014@gmail.com </footer>
+</html>
